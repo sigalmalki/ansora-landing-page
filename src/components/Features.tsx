@@ -18,21 +18,21 @@ interface FeatureProps {
 
 const features: FeatureProps[] = [
   {
-    title: "Responsive Design",
+    title: "How they actually say it",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "See the exact words practitioners use when they talk about their work, and instantly spot where your copy sounds… not like that.",
     image: image4,
   },
   {
-    title: "Intuitive user interface",
+    title: "No theory. Just work.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Every insight comes from a real breakdown in real work. No abstract pains. No imagined problems.",
     image: image3,
   },
   {
-    title: "AI-Powered insights",
+    title: "Always backed by reality",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Every insight links back to where it was actually said, from forum threads to the exact second in a podcast or video.",
     image: image,
   },
 ];
